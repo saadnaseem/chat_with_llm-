@@ -1,6 +1,6 @@
 # Local Chat with LLM (Ollama + Flask)
 
-![My Diagram](images_github.png)
+![My Diagram](image_github.png)
 
 A simple web chat interface to interact with a local LLM (via [Ollama](https://ollama.com/)) using a modern HTML frontend and a Python Flask backend.
 
